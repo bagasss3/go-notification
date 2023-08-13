@@ -1,0 +1,13 @@
+port: "8080"
+database:
+  host: ""
+  database: ""
+  username: ""
+  password: ""
+  maxIdleConns: 
+  maxOpenConns: 
+  connMaxLifeTime: ""
+  connMaxIdleTime: ""
+redis:
+  host: ""
+  exp: ""
